@@ -1,1 +1,0 @@
-git push -u origin maingit push -u origin maingit push -u origin main
