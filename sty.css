@@ -2,3 +2,15 @@
     margin: 0;
     padding: 0%;
 }
+body{
+    width: 100%;
+    background-color: #181c30;
+    color: #e6ddc4;
+}
+.container{
+    width: 100%;
+}
+.heder img{
+    width: 99px;
+    height: 70px;
+}
